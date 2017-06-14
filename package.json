@@ -1,6 +1,6 @@
 {
   "name": "MasterKey",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Generador de contraseñas. Apicacion hecha con Electron.",
   "main": "main.js",
   "scripts": {
